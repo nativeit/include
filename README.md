@@ -1,7 +1,7 @@
 # Native IT | Asset Management
 This is a public repository for miscellaneous scripting and function dependencies. 
 
-This collection is specific to our own internal custom operations and automation routines, and likely won't be very useful unless paired with these systems. In isolation, this repository does not function in any meaningful way and shouldn't be considered reliable for any use outside of Native IT's Asset Management services. 
+*PLEASE NOTE* -- This collection is specific to our own internal custom operations and automation routines, and likely won't be very useful unless paired with these systems. In isolation, this repository does not function in any meaningful way and shouldn't be considered reliable for any use outside of Native IT's Asset Management services. 
 
 If you are looking for useful resources related to IT asset management, I recommend starting with [SnipeIT](https://github.com/snipe/snipe-it).
 
